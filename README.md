@@ -4,4 +4,4 @@
 
  <br/>
 
- <img style="width: 300px" src ="./src/gifs/1.gif">
+ <img style="width: 300px" src ="./src/gifs/1.gif" alt="gif"/>
